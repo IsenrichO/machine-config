@@ -2,8 +2,6 @@
 
 [machine-config](https://github.com/IsenrichO/machine-config) is a collection of static assets, configuration (_.*rc_) files and settings/user preference resources that I use to get a new machine back up and running with the dev environment I want and the time wasted I don't.
 
-
-# machine-config
 A go-to source for all the items needed to reconfigure a new/clean machine with the settings I'd 
 
 ---
