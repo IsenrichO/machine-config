@@ -1,0 +1,8 @@
+
+# Non-necessary Sub-directories:
+dist
+coverage
+
+# Log & Temporary Intermediate Files:
+*.log
+*.hot-update.json
