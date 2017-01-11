@@ -6,20 +6,13 @@
 # machine-config
 A go-to source for all the items needed to reconfigure a new/clean machine with the settings I'd 
 
-
 ---
 
 ## Sublime Text
 
 [
-
-​	<img
-
-​		src="./assets/Sublime_Text_Custom_Theme.png"
-
-​		alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
-
-​		width="50%" />
-
-](./assets/Sublime_Text_Custom_Theme.png)
-
+  <img
+    src="assets/Sublime_Text_Custom_Theme.png"
+    alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
+    style="position: relative; width: 75%; margin: auto;" />
+](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png)
