@@ -1,0 +1,18 @@
+[user]
+	name = Oliver Isenrich
+	email = IsenrichO@gmail.com
+[credential]
+	helper = osxkeychain
+[github]
+  user = IsenrichO
+[alias]
+	ll = ls
+[core]
+	autocrlf = false
+	editor = /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl -n -w
+	excludesfile = /Users/oliverisenrich/.gitignore_global
+[color]
+	ui = auto
+[push]
+  default = current
+  
