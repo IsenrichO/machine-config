@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Agila Theme",
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Console Wrap for js",
+		"EditorConfig",
+		"Emmet",
+		"Entheogen Color Scheme",
+		"GitHub Flavored Markdown Preview",
+		"Javascript Beautify",
+		"JsFormat",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Materialize",
+		"Package Control",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeREPL",
+		"Syntax Highlighting for Sass",
+		"Theme - Flatland",
+		"Theme - Kronuz",
+		"Theme - Toxin",
+		"zz File Icons"
+	]
+}
