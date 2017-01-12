@@ -23,6 +23,44 @@ This repository is divided into several sub-directories, the contents of which h
 
 ## Sublime Text
 
+I've spent embarassingly much time messing with Sublime's user settings file [Ref. _User/Preferences.sublime-settings_], but have finally got something I think I can tolerate for a while. Before just transposing this settings object to another Sublime dist, remember that a bevy of packages and plugins must first be installed for many of those settings fields to have recongizeable effects. Alphabetically, we have:
+  + **AdvancedNewFile:** Allows for faster creation of new files
+  + **Agila Theme:** Agila theme source
+  + **AutoFileName:** Equips Sublime with file name autocompletion functionality
+  + **Autoprefixer:** Embeds automatic vendor prefixing support to CSS files in Sublime
+  + **Babel:** Syntax lexicon for ES2015 JavaScript with expanded coverage for React's expressive JSX syntax
+  + **Better CoffeeScript:** Presents a side-by-side view of real-time compiled CoffeeScript output
+  + **BracketHighlighter:** Bracket matching plugin
+  + **ColorPicker:** Multi-platform color picker plugin
+  + **Console Wrap for js:** Wraps selected variable in a `console.log()` statement (`⌃ + ⇧ + q`)
+  + **EditorConfig:** Helps maintain code style consistency across different IDEs
+  + **Emmet:** Plugin that supports abbreviated code generation
+  + **Entheogen Color Scheme:** Entheogen color scheme source
+  + **Git:** Minimalist Git integration wizard for Sublime
+  + **GitGutter:** Adds informative gutter icons indicating version control changes
+  + **GitHub Flavored Markdown Preview:** Enables live previews of MarkDown (_*.md_) files as would be interpreted by a GitHub-flavored MD engine
+  + **HTML5:** Adds HTML5 syntax recognition and support for relevant snippets
+  + **Javascript Beautify:** JavaScript language style enhancer plugin
+  + **jQuery:** Syntax highlighter and snippet support for jQuery
+  + **JsFormat:** A JavaScript/JSON formatting plugin built off JSBeautifier
+  + **Material Theme:** Material theme source
+  + **Material Theme - Appbar:** Enables a tinted app bar compatible with a pre-existing Material theme installation
+  + **Material Theme - White Panels:** Enables white-colored panels inside an existing Material theme installation
+  + **Materialize:** Extends the Material theme to some of Sublime Text's most popular color schemes
+  + **Nodejs:** Adds Node.js snippets and bindings to the Sublime IDE
+  + **Package Control:** The full-featured interface used to install these very packages
+  + ReactJS
+  + **Sass:** Adds syntax highlighting support for Sass stylesheet language
+  + **SideBarEnhancements:** Adds all the actions (_e.g._, Rename, Delete, Refresh, Move, _etc_.) in to the context menu that should've been native.
+  + **SublimeLinter:** Interactive Sublime linter
+  + **SublimeLinter-contrib-eslint:** An ESLint-compatible interface for extensible SublimeLinter use
+  + **SublimeREPL:** Provides an in-house Sublime interpreter (REPL)
+  + **Syntax Highlighting for Sass:** Syntax lexicon for Sass-style preprocessed CSS
+  + **Theme - Flatland:** Flatland theme source
+  + **Theme - Kronuz:** Kronuz theme source
+  + **Theme - Toxin:** Toxin theme source
+  + **zz File Icons:** Expands the dictionary of file types for which there are supported format-specific icons in the file sidebar
+
 [
   <img
     src="assets/Sublime_Text_Custom_Theme.png"
