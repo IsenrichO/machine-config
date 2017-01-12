@@ -1,7 +1,6 @@
 # Machine Configuration
 
-[machine-config](https://github.com/IsenrichO/machine-config) is a collection of static assets, configuration (_.*rc_) files and settings/user preference resources that I use to get a new machine back up and running with the dev environment I want and the time wasted I don't.
-
+[machine-config](https://github.com/IsenrichO/machine-config) is a collection of static assets, configuration files (_.*rc_) and settings/user preference resources that I use to get a new machine back up and running with the dev environment I want and the time wasted I don't. It ensures I have a persisted home for some of the most important "meta-files" used to make my Mac... my Mac. In particular, it sets me back up with my preferred Sublime editor and Terminal environments without the massive workflow interruptions that often accompany getting started on a new machine.
 
 
 ---
@@ -22,6 +21,14 @@ This repository is divided into several sub-directories, the contents of which h
 ---
 
 ## Sublime Text
+
+[
+  <img
+    src="assets/Sublime_Text_Custom_Theme.png"
+    alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
+    style="position: relative; width: 75%; margin: auto;" />
+](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png)
+
 
 I've spent embarassingly much time messing with Sublime's user settings file [Ref. _User/Preferences.sublime-settings_], but have finally got something I think I can tolerate for a while. Before just transposing this settings object to another Sublime dist, remember that a bevy of packages and plugins must first be installed for many of those settings fields to have recongizeable effects. Alphabetically, we have:
   + **AdvancedNewFile:** Allows for faster creation of new files
@@ -61,12 +68,6 @@ I've spent embarassingly much time messing with Sublime's user settings file [Re
   + **Theme - Toxin:** Toxin theme source
   + **zz File Icons:** Expands the dictionary of file types for which there are supported format-specific icons in the file sidebar
 
-[
-  <img
-    src="assets/Sublime_Text_Custom_Theme.png"
-    alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
-    style="position: relative; width: 75%; margin: auto;" />
-](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png)
 
 
 ---
@@ -80,10 +81,11 @@ I've spent embarassingly much time messing with Sublime's user settings file [Re
     style="position: relative; width: 75%; margin: auto;" />
 ](https://github.com/IsenrichO/machine-config/raw/master/assets/Shell_Theme-Agnoster_ZSH.png)
 
+My Terminal profile is derived from [Agnoster](https://github.com/agnoster/agnoster-zsh-theme)'s awesome theme built for the Zsh shell.
 
 
 ---
 
 ## Shoutouts
 
-Like what you see? Go ahead and fork this repo and customize it to suit your particular needs; or just download the *.zip and go on with ya bad self! Be sure to substitute user-specific field values (_e.g._, **user.name** and **user.email** in the _.gitconfig_) with your own profile information though.
+Like what you see? Go ahead and fork this repo and customize it to suit your particular needs; or just download the _*.zip_ and go on with ya bad self! Be sure to substitute user-specific field values (_e.g._, **user.name** and **user.email** in the _.gitconfig_) with your own profile information though.
