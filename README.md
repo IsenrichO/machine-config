@@ -37,10 +37,10 @@ This repository is divided into several sub-directories, the contents of which h
 
 [
   <img
-    src="assets/Agnoster_2.png"
+    src="assets/Shell_Theme-Agnoster_ZSH.png"
     alt="My Terminal setup is derived from the awesome Agnoster theme for ZShell."
     style="position: relative; width: 75%; margin: auto;" />
-](https://github.com/IsenrichO/machine-config/raw/master/assets/Agnoster_2.png)
+](https://github.com/IsenrichO/machine-config/raw/master/assets/Shell_Theme-Agnoster_ZSH.png)
 
 
 
