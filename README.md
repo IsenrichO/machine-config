@@ -45,7 +45,7 @@ I've spent embarassingly much time messing with Sublime's user settings file [Re
   + [**Emmet:**](https://github.com/sergeche/emmet-sublime) Plugin that supports abbreviated code generation
   + [**Entheogen Color Scheme:**](https://github.com/tomaash/entheogen) Entheogen color scheme source
   + [**Git:**](https://github.com/kemayo/sublime-text-git) Minimalist Git integration wizard for Sublime
-  + [**GitGutter:**](https://github.com/jisaacks/GitGutter) Adds informative gutter icons indicating version control changes
+  + [**GitGutter:**](https://github.com/jisaacks/GitGutter) Adds informative gutter icons indicating version control changes [PC](https://packagecontrol.io/packages/GitGutter)
   + [**GitHub Flavored Markdown Preview:**](https://github.com/dotcypress/GitHubMarkdownPreview) Enables live previews of MarkDown (_*.md_) files as would be interpreted by a GitHub-flavored MD engine
   + [**HTML5:**](https://github.com/mrmartineau/HTML5) Adds HTML5 syntax recognition and support for relevant snippets
   + [**HTMLAttributes:**](https://github.com/agibsonsw/HTMLAttributes) HTML attribute completion plugin for Sublime Text
@@ -54,7 +54,7 @@ I've spent embarassingly much time messing with Sublime's user settings file [Re
   + [**JsFormat:**](https://github.com/jdc0589/JsFormat) A JavaScript/JSON formatting plugin built off JSBeautifier
   + [**Material Theme:**](https://github.com/equinusocio/material-theme) Material theme source
   + [**Material Theme - Appbar:**](https://github.com/equinusocio/material-theme-appbar) Enables a tinted app bar compatible with a pre-existing Material theme installation
-  + [**Material Theme - White Panels:**](https://github.com/equinusocio/material-theme-appbar) Enables white-colored panels inside an existing Material theme installation
+  + [**Material Theme - White Panels:**](https://github.com/equinusocio/material-theme-white-panels) Enables white-colored panels inside an existing Material theme installation
   + [**Materialize:**](https://github.com/saadq/Materialize) Extends the Material theme to some of Sublime Text's most popular color schemes
   + [**Nodejs:**](https://github.com/tanepiper/SublimeText-Nodejs) Adds Node.js snippets and bindings to the Sublime IDE
   + [**Package Control:**](https://github.com/wbond/package_control) The full-featured interface used to install these very packages [PC](https://packagecontrol.io/)
