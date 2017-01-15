@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="{Icon} Sublime Text Application Logo, Glyph ['_sublime-logo_'] [Format... '.SVG'].svg">
+   sodipodi:docname="Sublime_Text_Icon.svg">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,7 +46,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="39.333333"
-     inkscape:cx="2.6979529"
+     inkscape:cx="-2.0817082"
      inkscape:cy="3.4915264"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,7 +54,9 @@
      inkscape:current-layer="svg2" />
   <g
      transform="scale(0.046875,0.046875)"
-     id="g4">
+     id="g4"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
     <path
        d="m 0,0 256,0 0,29.19 c -1.12,-2.68 -2.4,-5.57 -5,-7.14 -2.42,-1.66 -5.46,-1.63 -8.26,-1.9 0.03,-3.46 0.19,-7.14 -1.56,-10.27 C 239.07,5.49 234.63,2.79 230.13,1.37 227.11,1.02 224.07,1.25 221.04,1.21 157.34,1.2 93.65,1.23 29.95,1.2 24.91,1.28 20.09,4.14 16.76,7.81 13.29,11.63 13.19,17.03 13.38,21.89 7.34,22.32 2.23,26.65 0,32.15 L 0,0 Z"
        style="fill:#ffffff"
