@@ -15,7 +15,7 @@ This repository is divided into several sub-directories, the contents of which h
 | **dotfiles** | A collection of system/application setting files (of the type that begin with a… dot, and are usually not outwardly visible to you from Mac's Finder). |
 | **settings** | Application settings files that preserve a memory of my desired setup and other user preferences. |
 |  **shell**   | A collection of assets pertinent to my Terminal and the way I like it configured. |
-
+| **wiki**     | Markdown files containing source for repo Wiki. |
 
 
 ---
@@ -32,7 +32,6 @@ This repository is divided into several sub-directories, the contents of which h
 I've spent embarassingly much time messing with Sublime's user settings file [Ref. _User/Preferences.sublime-settings_], but have finally got something I think I can tolerate for a while. Before just transposing this settings object to another Sublime dist, remember that a bevy of packages and plugins must first be installed for many of those settings fields to have recongizeable effects.
 
 For a list of my must-have Sublime Text integrations (_read:_ Package Control plugins), see the [Wiki](https://github.com/IsenrichO/machine-config/wiki/Sublime-Text-Setup).
-
 
 
 ---
