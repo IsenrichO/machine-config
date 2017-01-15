@@ -45,7 +45,7 @@ If all goes as intended, the outcome should hopefully reflect something akin to 
 
 [
   <img
-    src="assets/Sublime_Text_Custom_Theme.png"
+    src="https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png"
     alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
     style="position: relative; width: 75%; margin: auto;" />
 ](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png)
