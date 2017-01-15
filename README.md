@@ -23,13 +23,11 @@ This repository is divided into several sub-directories, the contents of which h
 ## Sublime Text
 
 [
-  ![
-    <img
-      src="assets/Sublime_Text_Custom_Theme.png"
-      alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
-      style="position: relative; width: 75%; margin: auto;" />
-  ](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png)
-]()
+  <img
+    src="assets/Sublime_Text_Custom_Theme.png"
+    alt="Custom theme and color scheme with added packages has allowed me this awesome workspace."
+    style="position: relative; width: 75%; margin: auto;" />
+](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Custom_Theme.png)
 
 I've spent embarassingly much time messing with Sublime's user settings file [Ref. _User/Preferences.sublime-settings_], but have finally got something I think I can tolerate for a while. Before just transposing this settings object to another Sublime dist, remember that a bevy of packages and plugins must first be installed for many of those settings fields to have recongizeable effects.
 
