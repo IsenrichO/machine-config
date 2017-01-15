@@ -3,11 +3,16 @@
 
 I've spent embarrassingly much time messing with Sublime's user settings file [Ref. _User/Preferences.sublime-settings_], but have finally got something I think I can tolerate for a while. Before just transposing this settings object to another Sublime dist, remember that a bevy of packages and plugins must first be installed for many of those settings fields to have recognizable effects. Alphabetically, we have:
 
-+ [**AdvancedNewFile:**](https://github.com/skuroda/Sublime-AdvancedNewFile) Allows for faster creation of new files ![Package Control](https://packagecontrol.io/packages/AdvancedNewFile)
+
+![Sublime Text](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Icon.png)
+
+[![Sublime Text](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Icon.png)](https://packagecontrol.io/packages/AdvancedNewFile)
+
++ [**AdvancedNewFile:**](https://github.com/skuroda/Sublime-AdvancedNewFile) Allows for faster creation of new files [![Sublime Text](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Icon.png)](https://packagecontrol.io/packages/AdvancedNewFile)
 + [**Agila Theme:**](https://github.com/arvi/Agila-Theme) Agila theme source ![Package Control](https://packagecontrol.io/packages/Agila%20Theme)
 + [**AutoFileName:**](https://github.com/BoundInCode/AutoFileName) Equips Sublime with file name autocompletion functionality ![AutoFileName on Package Control](https://packagecontrol.io/packages/AutoFileName)
 + [**Autoprefixer:**](https://github.com/sindresorhus/sublime-autoprefixer) Embeds automatic vendor prefixing support to CSS files in Sublime ![Autoprefixer on Package Control](https://packagecontrol.io/packages/Autoprefixer)
-+ [**Babel:**](https://github.com/babel/babel-sublime) Syntax lexicon for ES2015 JavaScript with expanded coverage for React's expressive JSX syntax []
++ [**Babel:**](https://github.com/babel/babel-sublime) Syntax lexicon for ES2015 JavaScript with expanded coverage for React's expressive JSX syntax
 + [**Better CoffeeScript:**](https://github.com/aponxi/sublime-better-coffeescript) Presents a side-by-side view of real-time compiled CoffeeScript output
 + [**BracketHighlighter:**](https://github.com/facelessuser/BracketHighlighter) Bracket matching plugin
 + [**ColorPicker:**](https://github.com/weslly/ColorPicker) Multi-platform color picker plugin
