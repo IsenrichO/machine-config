@@ -1,8 +1,6 @@
-
-#
-# EditorConfig:
+# EditorConfig helps developers define and maintain consistent
+#  coding styles between different editors and IDEs
 #   [Ref.]:  < http://EditorConfig.org >
-#
 
 
 # Top-Level EditorConfig File:
@@ -34,6 +32,9 @@ indent_size = 4
 insert_final_newline = true
 trim_trailing_whitespace = true
 max_line_length = 60
+
+[*.md]
+trim_trailing_whitespace = true
 
 # Tab indentation (size agnostic):
 [Makefile]
