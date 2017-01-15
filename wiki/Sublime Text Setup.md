@@ -3,7 +3,7 @@
 
 I've spent embarrassingly much time messing with Sublime's user settings file [Ref. _User/Preferences.sublime-settings_], but have finally got something I think I can tolerate for a while. Before just transposing this settings object to another Sublime dist, remember that a bevy of packages and plugins must first be installed for many of those settings fields to have recognizable effects. Alphabetically, we have:
 
-+ [**AdvancedNewFile:**](https://github.com/skuroda/Sublime-AdvancedNewFile) Allows for faster creation of new files ![Package Control](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Icon.svg)
++ [**AdvancedNewFile:**](https://github.com/skuroda/Sublime-AdvancedNewFile) Allows for faster creation of new files ![Package Control](https://github.com/IsenrichO/machine-config/raw/master/assets/Sublime_Text_Icon.png)
 + [**Agila Theme:**](https://github.com/arvi/Agila-Theme) Agila theme source
 + [**AutoFileName:**](https://github.com/BoundInCode/AutoFileName) Equips Sublime with file name autocompletion functionality
 + [**Autoprefixer:**](https://github.com/sindresorhus/sublime-autoprefixer) Embeds automatic vendor prefixing support to CSS files in Sublime
